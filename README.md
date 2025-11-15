@@ -1,4 +1,4 @@
-<h1 align="center">🤖 AI Powered Smart Personal Assistant</h1>
+<h1 align="center">🤖  Smart Personal Assistant</h1>
 <p align="center">
   Your personal AI assistant that understands natural language, automates tasks, and keeps your life organized — all built inside a Jupyter Notebook.
 </p>
