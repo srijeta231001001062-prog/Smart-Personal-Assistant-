@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PyCharm-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
 </p>
 
