@@ -1,6 +1,6 @@
 <h1 align="center">🤖  Smart Personal Assistant</h1>
 <p align="center">
-  Your personal AI assistant that understands natural language, automates tasks, and keeps your life organized — all built inside a Jupyter Notebook.
+  Your personal AI assistant that understands natural language, automates tasks, and keeps your life organized .
 </p>
 
 <p align="center">
@@ -21,9 +21,6 @@ This AI Smart Assistant understands your natural language commands and performs 
 - 📅 *Managing schedules & tasks*  
 - 🤖 *Executing simple automation commands*  
 - 🧠 *Interpreting free-form natural language*  
-
-All implemented inside a *clean and interactive Jupyter Notebook*.
-
 ---
 
 ## 🧠 How It Works
@@ -33,7 +30,7 @@ This project combines:
 - *NLP models* to understand what the user wants  
 - *Python logic* to interpret intents  
 - *APIs* for weather and information lookup  
-- *Jupyter Notebook* for interactive development  
+  
 
 The assistant processes your command → extracts intent → performs the action → returns a clean, friendly response.
 
@@ -66,7 +63,7 @@ pip install -r requirements.txt
 3️⃣ Run the assistant
 bash
 Copy code
-jupyter notebook
+PyCharm
 Open smart_assistant.ipynb and run all cells.
 
 🧪 Example Commands
